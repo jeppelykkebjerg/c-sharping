@@ -1,3 +1,3 @@
 {
-    "dotnet.defaultSolution": "foundational-csharp.sln"
+    "dotnet.defaultSolution": "student-grades.sln"
 }
