@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "student-grades", "student-grades\student-grades.csproj", "{501EB056-4E07-4565-8B7A-0A741777A79E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calling-methods", "..\calling-methods\calling-methods\calling-methods.csproj", "{DFDB9951-9282-4A56-A6A3-5C11E3D279DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{501EB056-4E07-4565-8B7A-0A741777A79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{501EB056-4E07-4565-8B7A-0A741777A79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{501EB056-4E07-4565-8B7A-0A741777A79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDB9951-9282-4A56-A6A3-5C11E3D279DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDB9951-9282-4A56-A6A3-5C11E3D279DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDB9951-9282-4A56-A6A3-5C11E3D279DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDB9951-9282-4A56-A6A3-5C11E3D279DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
